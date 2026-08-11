@@ -1,2 +1,2 @@
-# 100-Days-of-Coding--Sem1
+# Programming-In-C
 1st Year B.Tech CSE | Collection of C programs
