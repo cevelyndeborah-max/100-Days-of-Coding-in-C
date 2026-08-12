@@ -9,6 +9,5 @@ int main()
     scanf("%d%d",&l,&b);
     
     printf("Area=%d, Perimeter=%d",l*b,2*l+2*b);
-
     return 0;
 }
