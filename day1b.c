@@ -14,7 +14,6 @@ int main()
     float difference=a-b;
     float product=a*b;
     float division=a/b;
-    
     printf("Sum=%.0f, Diff=%.0f, Product=%.0f, Quotient=%.0f",sum,difference,product,division);
     return 0;
 }
