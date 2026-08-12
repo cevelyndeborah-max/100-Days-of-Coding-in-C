@@ -8,4 +8,5 @@ int main()
     scanf("%f",&c);
     float f=9*c/5+32;
     printf("Farenheit=%.0f",f);
+    return 0;
 }
