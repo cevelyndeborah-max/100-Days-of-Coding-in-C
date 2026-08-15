@@ -7,13 +7,16 @@ int main()
     int a;
     printf("Enter a: ");
     scanf("%d",&a);
-    if(a<0)
+    if(a!=0)
     {
-        printf("Negative");
-    }
-    else if(a>0)
-    {
-        printf("Positive");
+        if(a<0)
+        {
+            printf("Negative");
+        }
+        else
+        {
+            printf("Postive");
+        }
     }
     else
     {
